@@ -19,6 +19,7 @@ If you want your automatic rendered Picture, create a PR with your Call and the 
 
 ## Output
 * You'll get a short URL which spits out a png. That one can easily be embedded into static-sites like qrz.com, hamqth or whatever you want.
+* Your rendered image is reachable via https://images.wavelog.org/img/map?call=yourcall
 * Example:
 
 ![image of last-qsos - example](https://images.wavelog.org/img/map?call=dj7nt)
