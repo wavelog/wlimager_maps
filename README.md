@@ -17,3 +17,8 @@ If you want your automatic rendered Picture, create a PR with your Call and the 
   * If there's a new QSO, the map will be rendered.
   * If theres no update on your side, the old Map will be cached.
 
+## Output
+* You'll get a short URL which spits out a png. That one can easily be embedded into static-sites like qrz.com, hamqth or whatever you want.
+* Example:
+
+![image of last-qsos - example](https://images.wavelog.org/img/map?call=dj7nt)
