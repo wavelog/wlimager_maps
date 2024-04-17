@@ -5,7 +5,8 @@
 If you want your automatic rendered Picture, create a PR with your Call and the URL against maps.json or simply contact some of the collaborators.
 
 ## Prerequisites:
-* Your Wavelog must be connected to the Internet. If you protected it with a firewall, we can provide you with IPs for which it must be accessible
+* Your Wavelog must be connected to the Internet. If you protected it with a firewall, we can provide you with IPs for which it must be accessible.
+* You need at least Wavelog 1.5.2
 * You need to create a "slug" at Station-Setup and configure an "Exportmap"
 * That exportmap must be accessible
 
