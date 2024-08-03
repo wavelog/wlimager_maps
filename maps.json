@@ -1,6 +1,6 @@
 [
         { "call": "dj7nt", "url":"https://log.jo30.de/visitor/exportmap/dj7nt"},
-        { "call": "df2et", "url":"https://log.df2et.de/visitor/exportmap/df2etnew"} ,
+        { "call": "df2et", "url":"https://log.df2et.de/visitor/exportmap/df2etnew"},
         { "call": "hb9hil", "url":"https://wavelog.hb9hil.org/visitor/exportmap/log"},
         { "call": "la8aja", "url":"https://la8aja.com/wl/visitor/exportmap/la8aja"},
         { "call": "jw8aja", "url":"https://la8aja.com/wl/visitor/exportmap/jw8aja"},
@@ -10,5 +10,6 @@
         { "call": "hb0ysh", "url":"https://wavelog.hb9hil.org/visitor/exportmap/hb0ysh"},
         { "call": "iu2kin", "url":"https://log.iu2kin.it/visitor/exportmap/iu2kin"},
         { "call": "r1blh", "url":"https://wavelog.cats-home.net/index.php/visitor/exportmap/r1blh"},
-        { "call": "bg6hje", "url":"https://log.bg6hje.space/index.php/visitor/exportmap/bg6hje-hefei"}
+        { "call": "bg6hje", "url":"https://log.bg6hje.space/index.php/visitor/exportmap/bg6hje-hefei"},
+        { "call": "bg6hje-9", "url":"https://log.bg6hje.space/index.php/visitor/exportmap/bg6hje-9-lanzhou"}
 ]
